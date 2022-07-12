@@ -1,0 +1,463 @@
+{
+  "main": {
+    "id": "c08d0798eaaf8dc5",
+    "type": "split",
+    "children": [
+      {
+        "id": "357f839a384d891e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Linux Setup.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": true
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "357f839a384d891e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Linux Setup.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":true}}",
+              "eState": "{\"scroll\":87.98906970414959}"
+            }
+          ]
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f5131f2009fbfef9",
+    "type": "split",
+    "children": [
+      {
+        "id": "3df2f451949b87aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29db037b0618a99f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "1e76ddc9fd3a6f27",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "cursor",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "e4b3dcd452f093c1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "d8839012dba005ca",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 237.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "df39f777261495cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "02cf5d27ca4bcd66",
+        "type": "tabs",
+        "dimension": 56.9204152249135,
+        "children": [
+          {
+            "id": "204578c7513a6431",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Linux Setup.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "f5d7fd4a43624d78",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Linux Setup.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "f5266f376cc65d98",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "d462ddca676cd04b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Linux Setup.md"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "3c7dada259aaac67",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "bc43a1df5680f856",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "e8b4cc3caddd5a28",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "ef7efcae4caca4b1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "ae8b89a2ba45ff7f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "c2c02b3b77718b78",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "873cb8caa76a2478",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "0a1e4f82b2114213",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "d0d7c907b8dd8d34",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "53e463ec8c2d374c",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "e7a8d8df9c225398",
+        "type": "tabs",
+        "dimension": 43.0795847750865,
+        "children": [
+          {
+            "id": "1248f140dc338442",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Linux Setup.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": true,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [
+                    {
+                      "query": "tag:📝️/🌿️ OR tag:#💻️/📝️/🌿️ OR tag:#💪🏻️/📝️/🌿️",
+                      "color": {
+                        "a": 1,
+                        "rgb": 6856042
+                      }
+                    },
+                    {
+                      "query": "path:Templates OR path:CRM OR path:Sterkere/Templates OR path:DevLog/Templates",
+                      "color": {
+                        "a": 1,
+                        "rgb": 2631720
+                      }
+                    },
+                    {
+                      "query": "tag:#📥️ OR tag:#💻/📥 OR tag:#💪🏻️/📥️",
+                      "color": {
+                        "a": 1,
+                        "rgb": 11624070
+                      }
+                    },
+                    {
+                      "query": "path:Journal OR path:DevLog/Log OR path:Sterkere/Journal OR path:DevLog/Journal",
+                      "color": {
+                        "a": 1,
+                        "rgb": 13378589
+                      }
+                    },
+                    {
+                      "query": "tag:📝️/🌞️ OR tag:#💻️/📝️/🌞️ OR tag:#💪🏻️/📝️/🌞️",
+                      "color": {
+                        "a": 1,
+                        "rgb": 6856042
+                      }
+                    },
+                    {
+                      "query": "tag:📝️/🌲️ OR tag:#💻️/📝️/🌲️ OR tag:#💪🏻️/📝️/🌲️",
+                      "color": {
+                        "a": 1,
+                        "rgb": 4356952
+                      }
+                    },
+                    {
+                      "query": "tag:📝️/🌱️ OR tag:#💻️/📝️/🌱️ OR tag:#💪🏻️/📝️/🌱️",
+                      "color": {
+                        "a": 1,
+                        "rgb": 9355388
+                      }
+                    },
+                    {
+                      "query": "tag:#⚙️ OR tag:#📇️/⚙️ OR tag:#💻/⚙️ OR tag:#💪🏻️/⚙️",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14048526
+                      }
+                    },
+                    {
+                      "query": "path:Sterkere",
+                      "color": {
+                        "a": 1,
+                        "rgb": 484984
+                      }
+                    },
+                    {
+                      "query": "tag:#🗺️",
+                      "color": {
+                        "a": 1,
+                        "rgb": 11892244
+                      }
+                    },
+                    {
+                      "query": "path:DevLog",
+                      "color": {
+                        "a": 1,
+                        "rgb": 10000154
+                      }
+                    },
+                    {
+                      "query": "path:CRM",
+                      "color": {
+                        "a": 1,
+                        "rgb": 9601908
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.3018521293162475,
+                  "close": true
+                }
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "255d170f141a560a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 104.5,
+    "collapsed": true
+  },
+  "active": "357f839a384d891e",
+  "lastOpenFiles": [
+    "Linux Setup.md",
+    "What are Xorg, Gnome, KDE, and etc.md",
+    "_INDEX.md",
+    "Awesome WM Setup.md",
+    "Mac Software Setup.md",
+    "Inbox/{ 2022-05-06 深入理解 Java 虚拟机.md",
+    "Inbox/{ 2022-06-29 English Grammar in Use.md",
+    "Inbox/{ 2022-05-09 英语魔法师之语法俱乐部.md",
+    "哦.md",
+    "Inbox/{ 2022-06-13 The Linux Command Line.md"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "fileSortOrder": "alphabetical",
+  "promptDelete": false,
+  "readableLineLength": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showFrontmatter": false,
+  "strictLineBreaks": false,
+  "showLineNumber": true,
+  "vimMode": false,
+  "alwaysUpdateLinks": true,
+  "legacyEditor": false,
+  "livePreview": false,
+  "spellcheck": true,
+  "useMarkdownLinks": false
+}

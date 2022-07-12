@@ -1,0 +1,9 @@
+{
+  "show-checkboxes": false,
+  "show-relative-date": true,
+  "link-date-to-daily-note": true,
+  "hide-date-in-title": true,
+  "new-note-template": "Templates/meta.md",
+  "metadata-keys": [],
+  "hide-tags-display": false
+}

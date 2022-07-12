@@ -1,0 +1,11 @@
+{
+  "tagPath": "/Users/chenghuipeng/Downloads/tags.json",
+  "metadataPath": "/Users/chenghuipeng/Downloads/metadata.json",
+  "allExceptMdPath": "/Users/chenghuipeng/Downloads/allExceptMd.json",
+  "tagFile": "tags.json",
+  "metadataFile": "metadata.json",
+  "allExceptMdFile": "allExceptMd.json",
+  "writingFrequency": "0",
+  "writeFilesOnLaunch": false,
+  "consoleLog": false
+}

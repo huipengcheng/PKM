@@ -1,0 +1,107 @@
+{
+  "collapse-filter": false,
+  "search": "-path:Templates -path:Utility",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:📝️/🌿️ OR tag:#💻️/📝️/🌿️ OR tag:#💪🏻️/📝️/🌿️",
+      "color": {
+        "a": 1,
+        "rgb": 6856042
+      }
+    },
+    {
+      "query": "path:Templates OR path:CRM OR path:Sterkere/Templates OR path:DevLog/Templates",
+      "color": {
+        "a": 1,
+        "rgb": 2631720
+      }
+    },
+    {
+      "query": "tag:#📥️ OR tag:#💻/📥 OR tag:#💪🏻️/📥️",
+      "color": {
+        "a": 1,
+        "rgb": 11625094
+      }
+    },
+    {
+      "query": "path:Journal OR path:DevLog/Log OR path:Sterkere/Journal OR path:DevLog/Journal",
+      "color": {
+        "a": 1,
+        "rgb": 13378589
+      }
+    },
+    {
+      "query": "tag:📝️/🌞️ OR tag:#💻️/📝️/🌞️ OR tag:#💪🏻️/📝️/🌞️",
+      "color": {
+        "a": 1,
+        "rgb": 6856042
+      }
+    },
+    {
+      "query": "tag:📝️/🌲️ OR tag:#💻️/📝️/🌲️ OR tag:#💪🏻️/📝️/🌲️",
+      "color": {
+        "a": 1,
+        "rgb": 4356952
+      }
+    },
+    {
+      "query": "tag:📝️/🌱️ OR tag:#💻️/📝️/🌱️ OR tag:#💪🏻️/📝️/🌱️",
+      "color": {
+        "a": 1,
+        "rgb": 9355388
+      }
+    },
+    {
+      "query": "tag:#⚙️ OR tag:#📇️/⚙️ OR tag:#💻/⚙️ OR tag:#💪🏻️/⚙️",
+      "color": {
+        "a": 1,
+        "rgb": 14048526
+      }
+    },
+    {
+      "query": "path:Sterkere",
+      "color": {
+        "a": 1,
+        "rgb": 484984
+      }
+    },
+    {
+      "query": "tag:#🗺️",
+      "color": {
+        "a": 1,
+        "rgb": 11892244
+      }
+    },
+    {
+      "query": "path:DevLog",
+      "color": {
+        "a": 1,
+        "rgb": 10000154
+      }
+    },
+    {
+      "query": "path:CRM",
+      "color": {
+        "a": 1,
+        "rgb": 9601908
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1.3972537656239532,
+  "close": true
+}

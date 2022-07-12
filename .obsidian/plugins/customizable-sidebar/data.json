@@ -1,0 +1,14 @@
+{
+  "sidebarCommands": [],
+  "hiddenCommands": [
+    "Templater",
+    "Advanced Tables Toolbar",
+    "Obsidian_to_Anki - Scan Vault",
+    "Open this month",
+    "Open command palette",
+    "Open today's daily note",
+    "Open graph view",
+    "Open quick switcher",
+    "Macros: test_macro"
+  ]
+}

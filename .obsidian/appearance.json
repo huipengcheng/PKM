@@ -1,0 +1,20 @@
+{
+  "baseFontSize": 16,
+  "theme": "obsidian",
+  "cssTheme": "Bryans Gruvbox",
+  "enabledCssSnippets": [
+    "test",
+    "front-matter-label-text-size",
+    "frontmatter",
+    "kanban",
+    "tiny_table",
+    "index",
+    "tiny_img",
+    "smaller-scrollbar",
+    "readable-line-width"
+  ],
+  "translucency": false,
+  "interfaceFontFamily": "",
+  "textFontFamily": "FiraCode Nerd Font Mono,Source Han Sans CN,JetBrains Mono",
+  "baseFontSizeAction": true
+}

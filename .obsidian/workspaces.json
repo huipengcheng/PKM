@@ -1,0 +1,472 @@
+{
+  "workspaces": {
+    "Bash IO": {
+      "main": {
+        "id": "c08d0798eaaf8dc5",
+        "type": "split",
+        "children": [
+          {
+            "id": "ff2397a4b7e76e01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bash Input And Output.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "leaf": "ff2397a4b7e76e01",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bash File Descriptor.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "ff2397a4b7e76e01",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bash Input And Output.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":0},\"to\":{\"line\":27,\"ch\":0}},\"scroll\":12.28601325427276}"
+                },
+                {
+                  "leaf": "ff2397a4b7e76e01",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bash Arrays.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":true}}",
+                  "eState": "{\"scroll\":162.30882352941177}"
+                },
+                {
+                  "leaf": "ff2397a4b7e76e01",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bash Input And Output.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "ff2397a4b7e76e01",
+                  "group": null,
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "ff2397a4b7e76e01",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Inputs/DevNew.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":9},\"to\":{\"line\":1,\"ch\":9}}}"
+                },
+                {
+                  "leaf": "ff2397a4b7e76e01",
+                  "group": null,
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "ff2397a4b7e76e01",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Inputs/DevNew.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":6},\"to\":{\"line\":1,\"ch\":6}}}"
+                },
+                {
+                  "leaf": "ff2397a4b7e76e01",
+                  "group": null,
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "ff2397a4b7e76e01",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bash Arrays.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":13},\"to\":{\"line\":1,\"ch\":13}}}"
+                },
+                {
+                  "leaf": "ff2397a4b7e76e01",
+                  "group": null,
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "ff2397a4b7e76e01",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bash Parameter Expansion.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":28},\"to\":{\"line\":8,\"ch\":4}}}"
+                },
+                {
+                  "leaf": "ff2397a4b7e76e01",
+                  "group": null,
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "ff2397a4b7e76e01",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bash Arrays.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "ff2397a4b7e76e01",
+                  "group": null,
+                  "state": "{\"type\":\"empty\",\"state\":{}}",
+                  "eState": "{}"
+                }
+              ]
+            }
+          },
+          {
+            "id": "9aadd7ebe2521989",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bash Redirection.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "leaf": "9aadd7ebe2521989",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bash File Descriptor.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":20},\"to\":{\"line\":12,\"ch\":20}}}"
+                },
+                {
+                  "leaf": "9aadd7ebe2521989",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bash Redirection.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":true}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "leaf": "9aadd7ebe2521989",
+                  "group": null,
+                  "state": "{\"type\":\"empty\",\"state\":{}}",
+                  "eState": "{}"
+                }
+              ]
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "f5131f2009fbfef9",
+        "type": "split",
+        "children": [
+          {
+            "id": "3df2f451949b87aa",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "29db037b0618a99f",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "1e76ddc9fd3a6f27",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "Bash File Desc",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "e4b3dcd452f093c1",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "d8839012dba005ca",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 237.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "df39f777261495cb",
+        "type": "split",
+        "children": [
+          {
+            "id": "02cf5d27ca4bcd66",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "204578c7513a6431",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Bash Redirection.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "f5d7fd4a43624d78",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Bash Redirection.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "f5266f376cc65d98",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "d462ddca676cd04b",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Bash Redirection.md"
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "3c7dada259aaac67",
+                "type": "leaf",
+                "state": {
+                  "type": "graph-analysis",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "e7a8d8df9c225398",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1248f140dc338442",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Bash Redirection.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": true,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [
+                        {
+                          "query": "tag:📝️/🌿️ OR tag:#💻️/📝️/🌿️ OR tag:#💪🏻️/📝️/🌿️",
+                          "color": {
+                            "a": 1,
+                            "rgb": 6856042
+                          }
+                        },
+                        {
+                          "query": "path:Templates OR path:CRM OR path:Sterkere/Templates OR path:DevLog/Templates",
+                          "color": {
+                            "a": 1,
+                            "rgb": 2631720
+                          }
+                        },
+                        {
+                          "query": "tag:#📥️ OR tag:#💻/📥 OR tag:#💪🏻️/📥️",
+                          "color": {
+                            "a": 1,
+                            "rgb": 11624070
+                          }
+                        },
+                        {
+                          "query": "path:Journal OR path:DevLog/Log OR path:Sterkere/Journal OR path:DevLog/Journal",
+                          "color": {
+                            "a": 1,
+                            "rgb": 13378589
+                          }
+                        },
+                        {
+                          "query": "tag:📝️/🌞️ OR tag:#💻️/📝️/🌞️ OR tag:#💪🏻️/📝️/🌞️",
+                          "color": {
+                            "a": 1,
+                            "rgb": 6856042
+                          }
+                        },
+                        {
+                          "query": "tag:📝️/🌲️ OR tag:#💻️/📝️/🌲️ OR tag:#💪🏻️/📝️/🌲️",
+                          "color": {
+                            "a": 1,
+                            "rgb": 4356952
+                          }
+                        },
+                        {
+                          "query": "tag:📝️/🌱️ OR tag:#💻️/📝️/🌱️ OR tag:#💪🏻️/📝️/🌱️",
+                          "color": {
+                            "a": 1,
+                            "rgb": 9355388
+                          }
+                        },
+                        {
+                          "query": "tag:#⚙️ OR tag:#📇️/⚙️ OR tag:#💻/⚙️ OR tag:#💪🏻️/⚙️",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14048526
+                          }
+                        },
+                        {
+                          "query": "path:Sterkere",
+                          "color": {
+                            "a": 1,
+                            "rgb": 484984
+                          }
+                        },
+                        {
+                          "query": "tag:#🗺️",
+                          "color": {
+                            "a": 1,
+                            "rgb": 11892244
+                          }
+                        },
+                        {
+                          "query": "path:DevLog",
+                          "color": {
+                            "a": 1,
+                            "rgb": 10000154
+                          }
+                        },
+                        {
+                          "query": "path:CRM",
+                          "color": {
+                            "a": 1,
+                            "rgb": 9601908
+                          }
+                        }
+                      ],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1.3018521293162475,
+                      "close": true
+                    }
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "leaf": "1248f140dc338442",
+                      "group": "06c9f946249a1a0b",
+                      "state": "{\"type\":\"localgraph\",\"state\":{\"file\":\"Bash Parameter Expansion.md\",\"options\":{\"collapse-filter\":true,\"search\":\"\",\"localJumps\":1,\"localBacklinks\":true,\"localForelinks\":true,\"localInterlinks\":false,\"showTags\":false,\"showAttachments\":false,\"hideUnresolved\":false,\"collapse-color-groups\":false,\"colorGroups\":[],\"collapse-display\":true,\"showArrow\":false,\"textFadeMultiplier\":0,\"nodeSizeMultiplier\":1,\"lineSizeMultiplier\":1,\"collapse-forces\":true,\"centerStrength\":0.518713248970312,\"repelStrength\":10,\"linkStrength\":1,\"linkDistance\":250,\"scale\":1,\"close\":false}}}",
+                      "eState": "{}"
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "255d170f141a560a",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 272.5
+      },
+      "active": "9aadd7ebe2521989"
+    }
+  },
+  "active": "Bash IO"
+}

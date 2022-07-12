@@ -1,0 +1,25 @@
+/* https://gist.github.com/vii33/f2c3a85b64023cefa9df6420730c7531 */
+
+.markdown-preview-view.is-readable-line-width .markdown-preview-sizer, 
+.markdown-source-view.is-readable-line-width .cm-content {
+    max-width: 1000px;
+}
+
+
+.markdown-source-view.mod-cm6.is-readable-line-width.is-rtl .cm-contentContainer {
+    max-width: 1000px;
+    margin-left: auto;
+    }
+
+.markdown-source-view.mod-cm6.is-readable-line-width:not(.is-rtl) .cm-contentContainer {
+    max-width: 1000px; 
+    margin-right: auto;
+}
+
+.markdown-source-view.mod-cm6.is-line-wrap.is-readable-line-width .cm-line:not(.HyperMD-table-row) {
+    max-width: 1000px;
+}
+
+.markdown-source-view.mod-cm6.is-line-wrap.is-readable-line-width .cm-content {
+    max-width: 1000px;
+}

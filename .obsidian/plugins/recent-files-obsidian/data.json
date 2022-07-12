@@ -1,0 +1,166 @@
+{
+  "recentFiles": [
+    {
+      "basename": "Linux Setup",
+      "path": "Linux Setup.md"
+    },
+    {
+      "basename": "What are Xorg, Gnome, KDE, and etc",
+      "path": "What are Xorg, Gnome, KDE, and etc.md"
+    },
+    {
+      "basename": "_INDEX",
+      "path": "_INDEX.md"
+    },
+    {
+      "basename": "Awesome WM Setup",
+      "path": "Awesome WM Setup.md"
+    },
+    {
+      "basename": "Mac Software Setup",
+      "path": "Mac Software Setup.md"
+    },
+    {
+      "basename": "{ 2022-05-06 深入理解 Java 虚拟机",
+      "path": "Inbox/{ 2022-05-06 深入理解 Java 虚拟机.md"
+    },
+    {
+      "basename": "{ 2022-06-29 English Grammar in Use",
+      "path": "Inbox/{ 2022-06-29 English Grammar in Use.md"
+    },
+    {
+      "basename": "{ 2022-05-09 英语魔法师之语法俱乐部",
+      "path": "Inbox/{ 2022-05-09 英语魔法师之语法俱乐部.md"
+    },
+    {
+      "basename": "{ 2022-06-13 The Linux Command Line",
+      "path": "Inbox/{ 2022-06-13 The Linux Command Line.md"
+    },
+    {
+      "basename": "Mac Delete Local Snapshots",
+      "path": "Mac Delete Local Snapshots.md"
+    },
+    {
+      "basename": "🏷️ Tag Taxonomy",
+      "path": "Utility/🏷️ Tag Taxonomy.md"
+    },
+    {
+      "basename": "{ 2021-05 Git Pro",
+      "path": "Inbox/{ 2021-05 Git Pro.md"
+    },
+    {
+      "basename": "Today",
+      "path": "Templates/Temporal/Today.md"
+    },
+    {
+      "basename": "Double-Brace Initialization",
+      "path": "Double-Brace Initialization.md"
+    },
+    {
+      "basename": "Book",
+      "path": "Templates/Inputs/Book.md"
+    },
+    {
+      "basename": "Meta",
+      "path": "Templates/Misc/Meta.md"
+    },
+    {
+      "basename": "2022-05-06",
+      "path": "Journal/Daily/2022-05-06.md"
+    },
+    {
+      "basename": "Daily",
+      "path": "Templates/Temporal/Daily.md"
+    },
+    {
+      "basename": "( 2021-05 Bash Guide",
+      "path": "Inbox/( 2021-05 Bash Guide.md"
+    },
+    {
+      "basename": "📊️ Dashboard",
+      "path": "Utility/📊️ Dashboard.md"
+    },
+    {
+      "basename": "🔌️ Plugins",
+      "path": "Utility/🔌️ Plugins.md"
+    },
+    {
+      "basename": "🛠️ Tools",
+      "path": "Utility/🛠️ Tools.md"
+    },
+    {
+      "basename": "🕓️ Timeline",
+      "path": "Utility/🕓️ Timeline.md"
+    },
+    {
+      "basename": "💳️ Kanban",
+      "path": "Utility/💳️ Kanban.md"
+    },
+    {
+      "basename": "♻️ Flows",
+      "path": "Utility/♻️ Flows.md"
+    },
+    {
+      "basename": "✏️ Workbench",
+      "path": "Utility/✏️ Workbench.md"
+    },
+    {
+      "basename": "TODO",
+      "path": "Utility/TODO.md"
+    },
+    {
+      "basename": "weekly",
+      "path": "Templates/Temporal/weekly.md"
+    },
+    {
+      "basename": "monthly",
+      "path": "Templates/Temporal/monthly.md"
+    },
+    {
+      "basename": "Annual Note",
+      "path": "Templates/Temporal/Annual Note.md"
+    },
+    {
+      "basename": "{ 2021-08 Java8 函数式编程",
+      "path": "Inbox/{ 2021-08 Java8 函数式编程.md"
+    },
+    {
+      "basename": "{ 2021-08 Java 并发编程之美",
+      "path": "Inbox/{ 2021-08 Java 并发编程之美.md"
+    },
+    {
+      "basename": "{ 2021 Vi iMprovied",
+      "path": "Inbox/{ 2021 Vi iMprovied.md"
+    },
+    {
+      "basename": "Mac Modify System Variables",
+      "path": "Mac Modify System Variables.md"
+    },
+    {
+      "basename": "( 2021 Vimtutor",
+      "path": "Inbox/( 2021 Vimtutor.md"
+    },
+    {
+      "basename": "{ 2021-04 MySQL 必知必会",
+      "path": "Inbox/{ 2021-04 MySQL 必知必会.md"
+    },
+    {
+      "basename": "{ 2021-05 图解 HTTP",
+      "path": "Inbox/{ 2021-05 图解 HTTP.md"
+    },
+    {
+      "basename": "{ 2021-07 Effective Java",
+      "path": "Inbox/{ 2021-07 Effective Java.md"
+    },
+    {
+      "basename": "Article",
+      "path": "Templates/Inputs/Article.md"
+    },
+    {
+      "basename": "Book-Chapter",
+      "path": "Templates/Inputs/Book-Chapter.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null
+}

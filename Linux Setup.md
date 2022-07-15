@@ -3,7 +3,7 @@ tags: 📝️/🌱️
 publish: true
 aliases: 
 created: 2022-07-05 22-48
-updated: 2022-07-12 18-02
+updated: 2022-07-15 11-19
 ---
 
 # [[Linux Setup]]
@@ -13,7 +13,7 @@ updated: 2022-07-12 18-02
 ## Software
 
 ### Obsidian
-Installed through `flatpak`.
+Installed by a `AppImage`.
 
 
 ### WeChat
@@ -41,9 +41,6 @@ I install `xbindkeys_config-gtk2`, a GUI tool for xbindkeys, using pacman.
 ### FSearch
 Just like *Everything* in Windows.
 
-### Solaar
-A third-party Logitech device driver in linux, which installed by pacman and called `solaar-git`.
-
 ### Screenshot
 I install two screenshot program: gscrenshot, which is a mini CLI program, and flameshot, which has a GUI and a lot of functions.
 
@@ -56,8 +53,58 @@ The built-in screen grabber in GoldenDict can not be properly used in Arch, so I
 
 The dictionary file is placed at `~/dict`.
 
+### Flatpak
+I only use flatpak to install Bottles to play [[#Fall Guys]].
 
 ## System-Wide
+### X11
+#### Display Managers
+A [display manager](https://wiki.archlinux.org/title/Display_manager), or login manager, is typically a graphical user interface that is displayed at the end of the boot process in place of the default shell.
+
+There are two kinds of display managers: 
+- Console
+	- ly (installed)
+- Graphical
+	- LightDM
+	- SDDM
+	- GDM (installed, default for GNOME)
+
+If we want to change the current display manager:
+- Firstly make the `default.target` to `graphcial.target`, whether the display manager is console or graphical. The command we should execute is: `systemctl set-default graphcal.target`.
+- Then, we install the display manager we want and **enable** it's systemd service which located in `/usr/lib/systemd/system/`.
+- Then, we should make a soft link, which link from the service mentioned above to `etc/systemd/system/display-manager.service` (may need `--force` to override the old symlink).
+
+Most display managers source `/etc/xprofile`, `~/.xprofile`, `/etc/X11/xinit/xinitrc.d/`, `~/.Xresources` on startup (Note there is no **~/.xinitrc**).
+
+#### .xinitrc 
+The [`xinit`](https://wiki.archlinux.org/title/Xinit) program allows a user to **manually** start an Xorg display server. The `startx` script is a front-end for `xinit`.
+
+#### .xProfile
+An [xprofile](https://wiki.archlinux.org/title/Xprofile) file, `~/.xprofile` and `/etc/xprofile`, allows you to execute commands at the beginning of the X user session - before the window manager is started.
+
+#### .Xresources
+It will be loaded by the default [[#.xinitrc]] file and most [[#Display Managers]]. 
+
+
+### Autostarting
+There are a lot ways of [autostarting](https://wiki.archlinux.org/title/Autostarting).
+
+I put almost everything that needed to be autostarting to `~/.xprofile`, which is the `xorg` way, (for what is needed to start at the very beginning, such as [[#Kmonad]], I use the `systemd` way), and the autostarting procedure should be like:
+- With a display managers
+	- Display managers source `~/.xprofile` before the window manager is started.
+- Without a display managers, which means the `default.target` is set to `multi-user.target` (Follow [this](https://wiki.archlinux.org/title/Xinit#Autostart_X_at_login))
+	- I write some scripts in `~/.zprofile` (cause `zsh` is my default shell):
+	  ```shell
+	  if [ -z "${DISPLAY}" ] && [[ "$(tty)" = "/dev/tty1" ]] then;
+	      pgrep awesome || startx "~/.xinitrc"
+	  fi
+	  ```
+		- The variable `DISPLAY` is set to `:0` when using `graphcal.default` and unset when using `multi-user.default`.
+	- When I log in, `zsh` will excute `~/.zprofile` which will execute `startx`.
+	- `startx` will execute `~/.xinitrc` and I make `~/.xinitrc` to source `~/.xprofile` and launch [[Awesome WM]].
+	- But when log out and want to log in again, we may need manually execute `~/.zprofile`.
+
+
 ### HiDPI
 In GNOME or KDE, we can use the system setting tool to adjust monitors' resolution, and the tool also provides a setting to scale displays, which can achieve HiDPI. 
 
@@ -108,6 +155,36 @@ I install several packages, which are introduced in the instruction link, for op
 - `alacarte`: graphical editor
 - `lsdesktopf`: list available `.desktop` files
 - `fbrokendesktop`: detects broken `Exec` value in `.desktop` files
+
+
+### Mouse & Keyboard
+#### Solaar
+A third-party Logitech device GUI driver in linux, which installed by pacman and called `solaar-git`.
+
+#### Logiops
+It is a more powerful Logitech device driver than [[#Solaar]], but unfortunately, it currently does not support Logi Bolt.
+
+#### Piper
+GUI mouse config tool, it not support Logi Bolt yet.
+
+### Proxy
+- [ ] to-do
+
+[Proxy Server](https://wiki.archlinux.org/title/Proxy_server)
+
+- ProxyChains
+- Clash Mix-in 
+- [iptable](https://wiki.archlinux.org/title/Iptables) + redsocks
+- [Privoxy](https://www.privoxy.org)
+
+### Fireware
+[UFW (Uncomplicated Firewall)](https://wiki.archlinux.org/title/Uncomplicated_Firewall) if the most popular firewall manager, which depends on `iptables` or `nftables`.
+
+Enable UFW need to firstly enable it in system service and run `ufw enable` (make sure `iptables.service` is enabled). Then, use UFW to filter network.
+
+- [ ] For a detailed usage, please refer to the link above.
+- [ ] UFW can also be used for [[#Proxy]]?
+
 
 
 ## Gaming

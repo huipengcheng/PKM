@@ -717,7 +717,7 @@ var TTSSettingsTab = class extends import_obsidian3.PluginSettingTab {
   }
 };
 
-// src/TTSService.ts
+// src/TTSServiceImplementation.ts
 var import_obsidian4 = __toModule(require("obsidian"));
 
 // node_modules/tinyld/dist/tinyld.esm.js
@@ -855,8 +855,8 @@ function o0(a, i) {
   return V(a) ? b(a, n, i0, n0) : [];
 }
 
-// src/TTSService.ts
-var TTSService = class {
+// src/TTSServiceImplementation.ts
+var TTSServiceImplementation = class {
   constructor(plugin) {
     this.plugin = plugin;
   }
@@ -944,7 +944,7 @@ var TTSService = class {
   play(view) {
     return __async(this, null, function* () {
       const isPreview = view.getMode() === "preview";
-      let previewText = view.previewMode.containerEl.innerText;
+      const previewText = view.previewMode.containerEl.innerText;
       const selectedText = view.editor.getSelection().length > 0 ? view.editor.getSelection() : window.getSelection().toString();
       let content = selectedText.length > 0 ? selectedText : view.getViewData();
       if (isPreview) {
@@ -979,11 +979,20 @@ var TTSService = class {
   }
 };
 
+// node_modules/@vanakat/plugin-api/index.js
+function registerAPI(name, api, plugin) {
+  window["PluginApi"] = window["PluginApi"] || {};
+  window["PluginApi"][name] = api;
+  plugin.register(() => {
+    delete window["PluginApi"][name];
+  });
+}
+
 // src/main.ts
 var TTSPlugin = class extends import_obsidian5.Plugin {
   onload() {
     return __async(this, null, function* () {
-      this.ttsService = new TTSService(this);
+      this.ttsService = new TTSServiceImplementation(this);
       console.log("loading tts plugin");
       if (import_obsidian5.Platform.isAndroidApp) {
         new import_obsidian5.Notice("TTS: due to a bug in android this plugin does not work on this platform");
@@ -1056,6 +1065,7 @@ var TTSPlugin = class extends import_obsidian5.Plugin {
       this.statusbar.onClickEvent((event) => __async(this, null, function* () {
         yield this.createMenu(event);
       }));
+      registerAPI("tts", this.ttsService, this);
     });
   }
   createMenu(event) {

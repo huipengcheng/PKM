@@ -7,7 +7,7 @@
   "showFrontmatter": false,
   "strictLineBreaks": false,
   "showLineNumber": true,
-  "vimMode": false,
+  "vimMode": true,
   "alwaysUpdateLinks": true,
   "legacyEditor": false,
   "livePreview": false,

@@ -147,7 +147,7 @@
 }
 
 .theme-dark {
-  --font-monospace: "Hack Nerd Font", "Source Code Pro", monospace;
+  --font-monospace: "Hack Nerd Font", "Source Code Pro", "AppleColorEmoji", monospace;
   --background-primary: var(--dark0);
   --background-primary-alt: var(--dark0);
   --background-secondary: var(--dark0-hard);
@@ -240,7 +240,7 @@ body {
   ); /** Remove this to return body font back to normal */
 
   /** Norse rune font for hilarity Comes from dafont.com */
-  --custom-font: 'Norse', 'ZQKNLT', 'YRDZST';
+  --custom-font: 'Norse', 'Hack Nerd Font', 'ZQKNLT', 'YRDZST';
   /* --custom-font: 'fira code', 'Hack Nerd Font', 'Source Code Pro', monospace; */
   --custom-H1-font-size: 38px;
   --custom-H2-font-size: 34px;
@@ -2640,4 +2640,5 @@ border-radius: 1.5em;} */
   font-size: 12px;
   text-align: left !important;
 }
+
 

@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "357f839a384d891e",
+        "id": "1f85fe6fabd2eca8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Linux Setup.md",
-            "mode": "preview",
+            "mode": "source",
             "backlinks": true,
             "source": true
           }
@@ -19,10 +19,52 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "357f839a384d891e",
+              "leaf": "1f85fe6fabd2eca8",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Linux Setup.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":184,\"ch\":13},\"to\":{\"line\":184,\"ch\":13}},\"scroll\":148.72541946411133}"
+            },
+            {
+              "leaf": "1f85fe6fabd2eca8",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Pacman Usage.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "1f85fe6fabd2eca8",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Linux Setup.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+              "eState": "{\"scroll\":159.4205012582469}"
+            },
+            {
+              "leaf": "1f85fe6fabd2eca8",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Double-Brace Initialization.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "1f85fe6fabd2eca8",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Linux Setup.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "1f85fe6fabd2eca8",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Double-Brace Initialization.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "1f85fe6fabd2eca8",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Linux Setup.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":true}}",
-              "eState": "{\"scroll\":87.98906970414959}"
+              "eState": "{}"
+            },
+            {
+              "leaf": "1f85fe6fabd2eca8",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Double-Brace Initialization.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":true}}",
+              "eState": "{}"
             }
           ]
         }
@@ -56,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cursor",
+                "query": "tag:#📝️/🌱️",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,10 +117,6 @@
             "state": {
               "type": "starred",
               "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           },
           {
@@ -93,7 +131,8 @@
               "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -124,10 +163,6 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           },
           {
@@ -140,10 +175,6 @@
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           },
           {
@@ -181,10 +212,6 @@
             "state": {
               "type": "empty",
               "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           },
           {
@@ -193,10 +220,6 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           },
           {
@@ -205,10 +228,6 @@
             "state": {
               "type": "empty",
               "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           },
           {
@@ -217,10 +236,6 @@
             "state": {
               "type": "empty",
               "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           },
           {
@@ -229,10 +244,6 @@
             "state": {
               "type": "empty",
               "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           },
           {
@@ -241,10 +252,6 @@
             "state": {
               "type": "empty",
               "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           },
           {
@@ -253,10 +260,6 @@
             "state": {
               "type": "empty",
               "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           },
           {
@@ -265,10 +268,6 @@
             "state": {
               "type": "empty",
               "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           },
           {
@@ -277,14 +276,34 @@
             "state": {
               "type": "empty",
               "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           },
           {
             "id": "53e463ec8c2d374c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "cc037942b1a7e37d",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
+          },
+          {
+            "id": "b460adac5e95aa1c",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
+          },
+          {
+            "id": "564f3d4daec9eb85",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -421,10 +440,6 @@
                   "close": true
                 }
               }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           },
           {
@@ -433,10 +448,6 @@
             "state": {
               "type": "calendar",
               "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           }
         ],
@@ -444,20 +455,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 104.5,
-    "collapsed": true
+    "width": 174.5
   },
-  "active": "357f839a384d891e",
+  "active": "1f85fe6fabd2eca8",
   "lastOpenFiles": [
-    "Linux Setup.md",
-    "What are Xorg, Gnome, KDE, and etc.md",
     "_INDEX.md",
+    "Pacman Usage.md",
+    "Linux Setup.md",
+    "Double-Brace Initialization.md",
+    "Templates/Inputs/New.md",
+    "Untitled.md",
+    "Linux.md",
+    "What are Xorg, Gnome, KDE, and etc.md",
     "Awesome WM Setup.md",
-    "Mac Software Setup.md",
-    "Inbox/{ 2022-05-06 深入理解 Java 虚拟机.md",
-    "Inbox/{ 2022-06-29 English Grammar in Use.md",
-    "Inbox/{ 2022-05-09 英语魔法师之语法俱乐部.md",
-    "哦.md",
-    "Inbox/{ 2022-06-13 The Linux Command Line.md"
+    "Mac Software Setup.md"
   ]
 }

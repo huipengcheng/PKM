@@ -420,15 +420,6 @@
       "key": "P"
     }
   ],
-  "templater-obsidian:insert-templater": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "I"
-    }
-  ],
   "obsidian-annotator:toggle-annotation-mode": [
     {
       "modifiers": [
@@ -441,20 +432,31 @@
   "workspace:undo-close-pane": [],
   "app:go-back": [],
   "app:go-forward": [],
-  "heycalmdown-navigate-cursor-history:cursor-position-backward": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "["
-    }
-  ],
   "heycalmdown-navigate-cursor-history:cursor-position-forward": [
     {
       "modifiers": [
-        "Mod"
+        "Mod",
+        "Shift"
       ],
       "key": "]"
+    }
+  ],
+  "templater-obsidian:insert-templater": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "I"
+    }
+  ],
+  "heycalmdown-navigate-cursor-history:cursor-position-backward": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "["
     }
   ]
 }

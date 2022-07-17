@@ -3,7 +3,7 @@ tags: 📝️/🌱️
 publish: true
 aliases: 
 created: 2022-07-14 11-29
-updated: 2022-07-14 15-19
+updated: 2022-07-16 17-55
 ---
 
 # [[Pacman Usage]]
@@ -37,6 +37,7 @@ pacman -Q
 ```
 
 ### Tricks
+- [Arch Wiki](https://wiki.archlinux.org/title/Pacman/Tips_and_tricks)
 - Remove packages
   ```shell
   sudo pacman -Rscnd <program>
@@ -59,7 +60,8 @@ pacman -Q
 ---
 
 - Topics: 
-	- [[Linux]] [[Arch]]
+	- [[Linux]]
+	- [[Arch]]
 - Reference:
 	- https://bbs.archlinux.org/viewtopic.php?pid=690438
 - Related:

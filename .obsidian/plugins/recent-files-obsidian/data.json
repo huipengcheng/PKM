@@ -1,16 +1,112 @@
 {
   "recentFiles": [
     {
-      "basename": "Linux Setup",
-      "path": "Linux Setup.md"
+      "basename": "Git Config",
+      "path": "Git Config.md"
+    },
+    {
+      "basename": "Use Pass to Manage Passwords",
+      "path": "Use Pass to Manage Passwords.md"
     },
     {
       "basename": "_INDEX",
       "path": "_INDEX.md"
     },
     {
+      "basename": "2022-07-17",
+      "path": "Journal/Daily/2022-07-17.md"
+    },
+    {
+      "basename": "Display Manager",
+      "path": "Display Manager.md"
+    },
+    {
+      "basename": "2022-07-16",
+      "path": "Journal/Daily/2022-07-16.md"
+    },
+    {
+      "basename": "Daily",
+      "path": "Templates/Temporal/Daily.md"
+    },
+    {
+      "basename": "The Suckless Software",
+      "path": "The Suckless Software.md"
+    },
+    {
+      "basename": "Linux Theme Customization",
+      "path": "Linux Theme Customization.md"
+    },
+    {
       "basename": "Pacman Usage",
       "path": "Pacman Usage.md"
+    },
+    {
+      "basename": "The X11",
+      "path": "The X11.md"
+    },
+    {
+      "basename": "Linux Proxy Setting",
+      "path": "Linux Proxy Setting.md"
+    },
+    {
+      "basename": "Desktop Entry FIles",
+      "path": "Desktop Entry FIles.md"
+    },
+    {
+      "basename": "Linux Firewall",
+      "path": "Linux Firewall.md"
+    },
+    {
+      "basename": "Add Chinese Input Method in Linux",
+      "path": "Add Chinese Input Method in Linux.md"
+    },
+    {
+      "basename": "Linux Gaming",
+      "path": "Linux Gaming.md"
+    },
+    {
+      "basename": "Linux Display Settings",
+      "path": "Linux Display Settings.md"
+    },
+    {
+      "basename": "Mouse & Keyboard Settings in Linux",
+      "path": "Mouse & Keyboard Settings in Linux.md"
+    },
+    {
+      "basename": "Tracked Things in My Arch",
+      "path": "Tracked Things in My Arch.md"
+    },
+    {
+      "basename": "Taking Scrrenshots in Linux",
+      "path": "Taking Scrrenshots in Linux.md"
+    },
+    {
+      "basename": "How to Autostart Software",
+      "path": "How to Autostart Software.md"
+    },
+    {
+      "basename": "Install WeChat on Linux",
+      "path": "Install WeChat on Linux.md"
+    },
+    {
+      "basename": "GTK",
+      "path": "GTK.md"
+    },
+    {
+      "basename": "Linux can't boot in after enter the password in display manager",
+      "path": "Linux can't boot in after enter the password in display manager.md"
+    },
+    {
+      "basename": "Swap",
+      "path": "Swap.md"
+    },
+    {
+      "basename": "The installation of the JetBrains IDE in Linux",
+      "path": "The installation of the JetBrains IDE in Linux.md"
+    },
+    {
+      "basename": "Double-Brace Initialization",
+      "path": "Double-Brace Initialization.md"
     }
   ],
   "omittedPaths": [],

@@ -2,15 +2,15 @@
 tags: 📝️/🌱️
 publish: true
 aliases: 
-created: 2022-05-05 15-34
-updated: 2022-07-15 11-43
+created: 2022-07-16 23-08
+updated: 2022-07-16 23-08
 ---
 
-# [[Double-Brace Initialization]]
+# [[The Suckless Software]]
 
 ---
 
-
+## Slock
 
 ---
 

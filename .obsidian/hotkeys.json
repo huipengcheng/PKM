@@ -435,8 +435,7 @@
   "heycalmdown-navigate-cursor-history:cursor-position-forward": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Mod"
       ],
       "key": "]"
     }
@@ -453,8 +452,7 @@
   "heycalmdown-navigate-cursor-history:cursor-position-backward": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Mod"
       ],
       "key": "["
     }

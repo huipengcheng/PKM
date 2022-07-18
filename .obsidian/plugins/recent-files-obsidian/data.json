@@ -1,24 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "Git Config",
-      "path": "Git Config.md"
-    },
-    {
-      "basename": "Use Pass to Manage Passwords",
-      "path": "Use Pass to Manage Passwords.md"
-    },
-    {
       "basename": "_INDEX",
       "path": "_INDEX.md"
+    },
+    {
+      "basename": "Fonts",
+      "path": "Fonts.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "2022-07-18",
+      "path": "Journal/Daily/2022-07-18.md"
+    },
+    {
+      "basename": "Linux Display Settings",
+      "path": "Linux Display Settings.md"
+    },
+    {
+      "basename": "The installation of the JetBrains IDE in Linux",
+      "path": "The installation of the JetBrains IDE in Linux.md"
+    },
+    {
+      "basename": "HiDPI",
+      "path": "HiDPI.md"
+    },
+    {
+      "basename": "The X11",
+      "path": "The X11.md"
+    },
+    {
+      "basename": "Display Manager",
+      "path": "Display Manager.md"
+    },
+    {
+      "basename": "Mouse & Keyboard Settings in Linux",
+      "path": "Mouse & Keyboard Settings in Linux.md"
     },
     {
       "basename": "2022-07-17",
       "path": "Journal/Daily/2022-07-17.md"
     },
     {
-      "basename": "Display Manager",
-      "path": "Display Manager.md"
+      "basename": "Git Config",
+      "path": "Git Config.md"
+    },
+    {
+      "basename": "Use Pass to Manage Passwords",
+      "path": "Use Pass to Manage Passwords.md"
     },
     {
       "basename": "2022-07-16",
@@ -41,10 +73,6 @@
       "path": "Pacman Usage.md"
     },
     {
-      "basename": "The X11",
-      "path": "The X11.md"
-    },
-    {
       "basename": "Linux Proxy Setting",
       "path": "Linux Proxy Setting.md"
     },
@@ -63,14 +91,6 @@
     {
       "basename": "Linux Gaming",
       "path": "Linux Gaming.md"
-    },
-    {
-      "basename": "Linux Display Settings",
-      "path": "Linux Display Settings.md"
-    },
-    {
-      "basename": "Mouse & Keyboard Settings in Linux",
-      "path": "Mouse & Keyboard Settings in Linux.md"
     },
     {
       "basename": "Tracked Things in My Arch",
@@ -99,10 +119,6 @@
     {
       "basename": "Swap",
       "path": "Swap.md"
-    },
-    {
-      "basename": "The installation of the JetBrains IDE in Linux",
-      "path": "The installation of the JetBrains IDE in Linux.md"
     },
     {
       "basename": "Double-Brace Initialization",

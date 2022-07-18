@@ -12,8 +12,80 @@
             {
               "leaf": "a0a46ac8c06700fe",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fonts.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "a0a46ac8c06700fe",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_INDEX.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":36,\"ch\":0},\"to\":{\"line\":36,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "a0a46ac8c06700fe",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Journal/Daily/2022-07-18.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":6},\"to\":{\"line\":21,\"ch\":6}}}"
+            },
+            {
+              "leaf": "a0a46ac8c06700fe",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Linux Display Settings.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":43,\"ch\":58},\"to\":{\"line\":43,\"ch\":58}},\"scroll\":4.444444338480632}"
+            },
+            {
+              "leaf": "a0a46ac8c06700fe",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The installation of the JetBrains IDE in Linux.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "a0a46ac8c06700fe",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"HiDPI.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "a0a46ac8c06700fe",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The X11.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+              "eState": "{\"scroll\":32.79528224714608}"
+            },
+            {
+              "leaf": "a0a46ac8c06700fe",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Display Manager.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "a0a46ac8c06700fe",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Mouse & Keyboard Settings in Linux.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "a0a46ac8c06700fe",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Journal/Daily/2022-07-17.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "a0a46ac8c06700fe",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Mouse & Keyboard Settings in Linux.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":9},\"to\":{\"line\":23,\"ch\":9}},\"scroll\":0}"
+            },
+            {
+              "leaf": "a0a46ac8c06700fe",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Journal/Daily/2022-07-17.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "a0a46ac8c06700fe",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Git Config.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":43,\"ch\":131},\"to\":{\"line\":43,\"ch\":131}},\"scroll\":20.123711340206185}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":47,\"ch\":3},\"to\":{\"line\":47,\"ch\":3}},\"scroll\":20.123711340206185}"
             },
             {
               "leaf": "a0a46ac8c06700fe",
@@ -44,8 +116,32 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Git Config.md",
+            "file": "Fonts.md",
             "mode": "source",
+            "backlinks": true,
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "8b91ded94f700d11",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "8b91ded94f700d11",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_INDEX.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":true}}",
+              "eState": "{}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_INDEX.md",
+            "mode": "preview",
             "backlinks": true,
             "source": true
           }
@@ -117,8 +213,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -144,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git Config.md",
+                "file": "_INDEX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +260,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git Config.md",
+                "file": "_INDEX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +291,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git Config.md"
+                "file": "_INDEX.md"
               }
             }
           },
@@ -374,7 +469,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Git Config.md",
+                "file": "_INDEX.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -505,19 +600,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282
+    "width": 282,
+    "collapsed": true
   },
-  "active": "a0a46ac8c06700fe",
+  "active": "8b91ded94f700d11",
   "lastOpenFiles": [
-    "Use Pass to Manage Passwords.md",
+    "Untitled.md",
+    "Fonts.md",
     "_INDEX.md",
-    "Git Config.md",
-    "Journal/Daily/2022-07-17.md",
+    "Journal/Daily/2022-07-18.md",
+    "Linux Display Settings.md",
+    "The installation of the JetBrains IDE in Linux.md",
+    "HiDPI.md",
+    "The X11.md",
     "Display Manager.md",
-    "Journal/Daily/2022-07-16.md",
-    "Journal/Daily/2022-07-15.md",
-    "Templates/Temporal/Daily.md",
-    "The Suckless Software.md",
-    "Linux Theme Customization.md"
+    "Mouse & Keyboard Settings in Linux.md"
   ]
 }

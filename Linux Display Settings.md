@@ -3,7 +3,7 @@ tags: 📝️/🌱️
 publish: true
 aliases: 
 created: 2022-07-16 17-37
-updated: 2022-07-16 17-37
+updated: 2022-07-18 00-11
 ---
 
 # [[Linux Display Settings]]
@@ -40,6 +40,7 @@ And then, I dig a little further through these pages: [1](arch high resolution s
 	- [[Linux]]
 	- [[Linux Setup]]
 - Reference:
-	- 
+	- [Xorg](https://wiki.archlinux.org/title/Xorg)
+	- [HiDPI](https://wiki.archlinux.org/title/HiDPI#X_Server)
 - Related:
 	- 

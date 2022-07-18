@@ -3,7 +3,7 @@ tags: 📝️/🌱️
 publish: true
 aliases: 
 created: 2022-07-16 17-34
-updated: 2022-07-16 17-34
+updated: 2022-07-17 23-49
 ---
 
 # [[Mouse & Keyboard Settings in Linux]]
@@ -24,11 +24,16 @@ It is a more powerful Logitech device driver than [[#Solaar]], but unfortunately
 ### Piper
 GUI mouse config tool, it not support Logi Bolt yet.
 
+### imwheel
+[imwheel](https://wiki.archlinux.org/title/IMWheel) is a fine tool to config mouse wheel speed for each application.
+
 ---
 
+
 - Topics: 
-	- 
+	- [[Linux]]
+	- [[Linux Setup]]
 - Reference:
-	- 
+	- [imwheel](https://wiki.archlinux.org/title/IMWheel)
 - Related:
 	- 

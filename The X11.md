@@ -3,7 +3,7 @@ tags: 📝️/🌱️
 publish: true
 aliases: 
 created: 2022-07-16 17-44
-updated: 2022-07-16 17-44
+updated: 2022-07-18 00-10
 ---
 
 # [[The X11]]
@@ -57,6 +57,7 @@ Most display managers source `/etc/xprofile`, `~/.xprofile`, `/etc/X11/xinit/xin
 	- [[Linux]]
 	- [[Linux Setup]]
 - Reference:
+	- [Xorg](https://wiki.archlinux.org/title/Xorg)
 	- [xinit](https://wiki.archlinux.org/title/Xinit)
 	- [xprofile](https://wiki.archlinux.org/title/Xprofile)
 	- [What is ".xsession" for](https://unix.stackexchange.com/a/47426)

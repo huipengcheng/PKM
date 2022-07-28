@@ -3,7 +3,7 @@ tags: 📝️/🌱️
 publish: true
 aliases: 
 created: 2022-05-05 16-14
-updated: 2022-06-01 22-15
+updated: 2022-07-19 00-25
 ---
 
 # [[Mac Modify System Variables]]
@@ -20,8 +20,8 @@ The default is 0.5.
 
 ---
 
-- Topics: [[Mac]]
-	- 
+- Topics: 
+	- [[Mac]]
 - Reference:
 	- 
 - Related:

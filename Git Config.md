@@ -3,7 +3,7 @@ tags: 📝️/🌱️
 publish: true
 aliases: 
 created: 2022-07-17 14-48
-updated: 2022-07-17 23-39
+updated: 2022-07-18 17-59
 ---
 
 # [[Git Config]]
@@ -44,6 +44,7 @@ The pass-git-helper has a lot of features, please refer to the website.
 > Install `pinentry` to enable pass-git-helper in GUI app. Refer to [pass-git-helper](https://github.com/languitar/pass-git-helper#preconditions).
 > 
 
+But now, GitHub encourages users to use SSH over HTTP to connect, [see]() https://docs.github.com/en/authentication/connecting-to-github-with-ssh).
 
 ---
 

@@ -14,8 +14,8 @@
     "readable-line-width"
   ],
   "translucency": false,
-  "interfaceFontFamily": "SF Pro Display,CaskaydiaCove Nerd Font,Apple Color Emoji",
-  "textFontFamily": "FiraCode Nerd Font Mono,Source Han Sans CN,JetBrains Mono,Apple Color Emoji",
+  "interfaceFontFamily": "SF Pro Display,Apple Color Emoji",
+  "textFontFamily": "FiraCode Nerd Font Mono,Source Han Sans CN,Apple Color Emoji",
   "baseFontSizeAction": true,
-  "monospaceFontFamily": "FiraCode Nerd Font Mono,Hack Nerd Font,Apple Color Emoji"
+  "monospaceFontFamily": "Hack Nerd Font Mono"
 }

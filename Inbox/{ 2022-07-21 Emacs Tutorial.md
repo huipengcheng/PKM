@@ -1,0 +1,169 @@
+---
+tags: 📥️/📚️/🟥️
+aliases:
+type: book
+status: 🟥️
+created: 2022-07-21 10-30
+updated: 2022-07-21 17-19
+---
+
+# Title: [[{ 2022-07-21 Emacs Tutorial]]
+
+## Metadata
+- `Topics:` [[Emacs]]
+- `Title:` [[{ 2022-07-21 Emacs Tutorial]]
+- `Type:` [[{]]
+- `Publish Date:` 
+- `Reviewed Date:` [[2022-07-21]]
+
+## Note
+- Key in Emacs:
+	- CONTROL: CTRL
+	- META: META or ALT (or ESC if do't have both of META or ALT)
+- Screen movement
+	- When move past the top or bottom of the screen, the text beyond the edge shifts onto the screen. This is called "scrolling".
+	- `C-x C-c`: end session
+	- `C-g`: quit a partially entered command
+	- `C-x`: kill buffer
+	- `C-v`: view next screen (overlap of two lines)
+	- `M-v`: view previous screen 
+	- `C-l`: 
+	- if pressed once, the text around the cursor will be placed at the center of screen
+	- pressed twice, it will move to the top of screen
+	- pressed three times, it moves to the bottom
+	- pressed four times acts like pressed once
+- Cursor movement
+	- The location of the cursor in the text is called "point".
+	- `M-f`: move forward by a word
+	- `M-b`: move backward by a word
+	- `M-a`: move to the beginning of a sentence (when already at a beginning of a sentence, it will move to the beginning of the previous sentence, `C-a` don't do the same thing)
+	- `M-e`: move to the end of a sentence
+	- `M-<`: move to beginning of the whole text (shift + , will produce <)
+	- `M->`: move to end of the whole text
+- Repeat-count
+	- Most Emacs command accept a numeric argument which serves as a repeat-count. There are 2 ways of giving a repeat count to a command:
+		- Typing `C-u` or `M` and then the digits (default is **4**) before type the command.
+		- For commands with META key, type the digits while holding down the META key.
+	- Some commands treat repeat-count differently: 
+		- `C-u n C-v` will scroll the text up by n lines and `C-u n M-v` does the thing exactly reverse.
+		- `C-u n C-l` move the text around the cursor to the nth line of the screen 
+- `C-g`: Stop a command currently running or discard a command currently typing.
+- Disabled commands
+	- Some commands are disabled to that beginning users cannot use them by accident.
+	- If we want to try the command, type a disabled command (such as `C-x C-l`) and answer the question with y.
+- Windows
+	- `C-x 1`: One window (kill all other windows)
+- Deleting
+	- `<DEL>`: Delete the character before the cursor
+	- `C-d`: Delete the character after the cursor 
+	- `M-<DEL>`: Kill the word before the cursor 
+	- `M-d`: Kill the next word after the cursor 
+	- `C-k`: Kill from the cursor position to end of line
+		- If the cursor location is at the beginning of a line, a single `C-k` will kill the content of the line, and a second `C-k` will kill the line **itself** (NewLine) and make all the other lines move up.
+		- `C-u n C-k`: Kills n lines and their contents.
+	- `M-k`: Kill to the end of the current sentence    - [ ] currently conflict to [[Awesome WM]]
+	- Kill a segment: Start by typing `C-<SPC>` (Emacs displays a message "Mark Set"), then move cursor to the end of segment wanted to delete, and type `C-w` to kill all selected segment.
+	- The difference between *deleting* and *killing*:
+		- Deleting only removes one character, however, killing removes more than one characters. For instance, `C-d` does deleting causing it remove one character, `C-u 10 C-d` does killing because it remove 10 characters.
+		- The killed text can be reinserted (yanking), whereas deleted text can't be reinserted. deleting 
+- Yanking
+	- `C-y`
+	- If we do several killing in a row, all of the killed text is saved together, and one `C-y` will yank all of the lines at once.
+	- If we want to yank previous killing text, we can type `C-y` to get the most recent kill, and type `M-y` to replace that yanked text with the previous kill. We also can type more times `M-y` to yank earlier and earlier kills, and enough times `M-y` will bring back to the starting point.
+	- We also can give `M-y` a positive and negative arguments.
+- Undo
+	- `C-/` or `C-_` or `C-x u`
+	- Undo the changes made by one command (commands that do not change the **text** don't count)
+	- Repetable
+- Files
+	- Need to save the file after making changes.
+	- After saving the file, Emacs also leave the original file under a changed name.
+	- `C-x C-f`: Find a file (This can be used to create a file)
+	- `C-x C-s`: Save the file 
+		- This copies the text within Emacs into the file
+		- First time we do this, Emacs renames the original file to a new name so that it is not lost. The new name is made by adding "~" to the end of the original file's name.
+- Buffers
+	- If we find a second file with `C-x C-f`, the first file remains inside Emacs.
+	- Each file stored in Emacs is called a *buffer*.
+	- `C-x C-b`: List buffers
+		- This opens a new **window** of all the existing buffers
+	- `C-x b`: Type the buffer name to switch to.
+	- Most buffers's name, which are listed in the buffer list, is the same as the file name, but some buffers not:
+		- `*Buffer List*` contains the buffer list that we made with `C-x C-b` and has no file
+		- `TUTORIAL`
+		- `*Messages*` contains the messages that have appeared on the bottom line, called *minibuffer*, during our Emacs session.
+	- When we switch to another file, the previous file will be stored in Emacs as a buffer and not saved. Instead of switching back to that buffer and saving it with `C-x C-s`, we can type `C-x s` which will ask us for each changed buffer whether to save the buffer to its file.
+- Extending the command set
+	- Emacs has a ton of commands than could possibly be put on all the control and meta characters.
+	- The X (eXtend) command:
+		- `C-x`: Character eXtend. Followed by one character.
+		- `M-x`: Named command eXtend. Followed by a long name.
+- Auto save
+	- Emacs periodically writes an "auto save" file for each file that we are editing.
+	- The auto save file name surrounds with a #.
+	- When we save the file in the normal way, Emacs deletes its auto save file.
+	- If the computer crashed, we can recover our auto-saved editing by finding the file normally and then typing `M-x recover-this-file`.
+- Echo area
+	- If Emacs sees that we are typing multicharacter commands slowly, it shows them at the bottom of the screen in an area called the *echo area*.
+- Mode line
+	- The line immediately above the echo area is called *mode line*.
+	- Example: `-:**- TUTORIAL      63% L749     (Fundamental)`
+	- The stars mean that we have made changes to the text. If no changes are made, it will be replaced by two dashes.
+	- `NN%`
+		- Indicate the current position of the buffer is above the top of the screen 
+		- If the top of the buffer is on the screen, it will show "Top"
+		- If the bottom of the buffer is on the screen, it will say "Bot"
+		- If a buffer we are looking at so mall that all of it fits on the screen, it will say "All"
+	- `LN`: Current line number of the point.
+	- `(...)`: Display current editing mode. Default is *Fundamental*
+		- *Major mode*
+			- Fundamental is an example of a major mode.
+			- Some of them are meant for editing different languages and/or kinds of text, such as Lisp mode, Text mode, etc.
+			- At any time only one major mode is active.
+			- Each major mode may make a few commands behave differently.
+		- *Minor mode*
+			- Enable and disable independently.
+			- A useful minor mode - Auto Fill mode
+				- Emacs breaks the line in between words (spaces as separators) automatically whenever we insert text and make a line that is too wide.
+				- The margin is usually set at 70 characters, but we can change it with the `C-x f` command. If we want to set margin to 20, then we should type `C-u 2 0 C-x f`.
+				- After we change the margin, Auto Fill mode doesn't re-fill. To re-fill the paragraph the cursor on, type `M-q`.
+		- Each mode is the name of an extended command, which is how we can *toggle (enable or disable)* that mode. For example: `M-x fundamental-mode`.
+- Searching
+	- The Emacs search command is "incremental" which means that the search happens while we typing.
+	- `C-s`: Forward search
+	- `C-r`: Reverse search
+	- `C-g` or `Return`: Terminate the search
+	- `<DEL>`
+		- Go back to the earlier search occurrence.
+		- If the cursor is at the first search occurrence already, it deletes the last character of the search string.
+	- If we are in the middle of a search and type a control or meta character (with a few exceptions -- characters that are special in a search, such as `C-s` and `C-r`), the search is terminated.
+- Multiple windows
+	- `C-x 2`: Horizontally split
+	- `C-x 3`: Vertically split
+	- `C-M-V` or `<EXC> C-v`: Scroll the bottom window
+	- `C-x o`: Cycle the cursor through all the opening windows
+	- `C-x 4 C-f`: Find a file and open it in the bottom window
+- Multiple Frames
+	- A *frame* is a collection of windows, together with its menus, scroll bars, echo area, etc.
+	- On graphical displays, a frame is what most other applications call a "window".
+	- `C-x 5 2`: Open a new frame with the current buffer.
+	- `C-x 5 0`: Close the focused frame.
+- Recursive editing levels
+	- This is indicated by square brackets in the mode line, surrounding the parentheses around the major mode name. For example, `[(Fundamental)]` instead of `(Fundamental)`.
+	- To get rid of the recursive editing level, type `<ESC> <ESC> <ESC>`. That is an all-purpose "get out" command. We can also use it for eliminating extra windows, and getting out of the minibuffer.
+- Getting more help
+	- All the "help" command starts with the character `C-h` which is called *the Help character*
+	- The `F1` key and `M-x help` does the same thing.
+	- Some useful help:
+		- `C-h h`: Display the whole help menu (`*MetaHelp*` buffer).
+		- `C-h c`: Display a very brief description of the command.
+		- `C-h x`: Describe a command by its name.
+		- `C-h v`: Display the documentation of a variable by its name.
+		- `C-h a`: Command Apropos. Type in a keyword an Emacs will list all the commands whose names contain that keyword. These command can all be invoked with `M-x`.
+		- `C-h m`: View documentation on the current major mode.
+		- `C-h t`: Open the tutorial.
+		- `C-h i`: Read all included Manuals (`*info*` buffer).
+		- `C-h r`: Read Emacs manual.
+		- **NOTE:** We can use `C-M-v` to scroll the help window.
+- `C-x C-c`: Exit Emacs. It also offers to save each changed file before it kills Emacs.
+- `C-z`: Suspend Emacs, used in terminal. Resume Emacs with the "fg" command or with "%emacs".

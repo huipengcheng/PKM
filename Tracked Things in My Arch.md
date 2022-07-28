@@ -3,7 +3,7 @@ tags: 📝️/🌱️
 publish: true
 aliases: 
 created: 2022-07-16 17-33
-updated: 2022-07-16 17-33
+updated: 2022-07-27 22-25
 ---
 
 # [[Tracked Things in My Arch]]
@@ -35,6 +35,11 @@ I only use flatpak to install Bottles to play [[#Fall Guys]].
 
 ### Pacwall
 Build a wallpaper of the link graph of the installed pacman packages.
+
+### KDocker
+Make any application in the system tray.
+
+Currently, I use it for ThunderBird.
 
 ---
 

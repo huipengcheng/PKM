@@ -3,10 +3,10 @@ tags: 📝️/🌱️
 publish: true
 aliases: 
 created: 2022-07-16 17-42
-updated: 2022-07-16 17-42
+updated: 2022-07-19 00-24
 ---
 
-# [[Desktop Entry FIles]]
+# [[Desktop Entry Files]]
 
 ---
 

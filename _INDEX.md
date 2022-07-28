@@ -32,7 +32,7 @@ I am a postgraduate student at the Software Institute of Nanjing University.
 - [[Programming]]
 
 
-## KNOWledge management
+## Knowledge management
 
 ### Zettelkasten
 

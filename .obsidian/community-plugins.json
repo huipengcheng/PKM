@@ -29,7 +29,6 @@
   "graph-analysis",
   "highlightr-plugin",
   "obsidian-hider",
-  "homepage",
   "obsidian-image-auto-upload-plugin",
   "obsidian-image-caption",
   "mrj-jump-to-link",
@@ -39,7 +38,6 @@
   "metadata-extractor",
   "nldates-obsidian",
   "heycalmdown-navigate-cursor-history",
-  "note-refactor-obsidian",
   "obsidian42-text-transporter",
   "obsidian-outliner",
   "pane-relief",
@@ -55,8 +53,8 @@
   "tag-wrangler",
   "templater-obsidian",
   "update-time-on-edit",
-  "various-complements",
   "obsidian-zoom",
   "oz-image-plugin",
-  "obsidian-image-toolkit"
+  "obsidian-image-toolkit",
+  "review-obsidian"
 ]

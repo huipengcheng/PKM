@@ -4,144 +4,120 @@
     "type": "split",
     "children": [
       {
-        "id": "a0a46ac8c06700fe",
+        "id": "59bf85b52376e4e3",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "a0a46ac8c06700fe",
+              "leaf": "59bf85b52376e4e3",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fonts.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "a0a46ac8c06700fe",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_INDEX.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":36,\"ch\":0},\"to\":{\"line\":36,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "a0a46ac8c06700fe",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Journal/Daily/2022-07-18.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":6},\"to\":{\"line\":21,\"ch\":6}}}"
-            },
-            {
-              "leaf": "a0a46ac8c06700fe",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Linux Display Settings.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":43,\"ch\":58},\"to\":{\"line\":43,\"ch\":58}},\"scroll\":4.444444338480632}"
-            },
-            {
-              "leaf": "a0a46ac8c06700fe",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The installation of the JetBrains IDE in Linux.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tracked Things in My Arch.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":true}}",
               "eState": "{}"
             },
             {
-              "leaf": "a0a46ac8c06700fe",
+              "leaf": "59bf85b52376e4e3",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10-Bit Color.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "59bf85b52376e4e3",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Applications in 30 bit depth.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "59bf85b52376e4e3",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"HiDPI.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "a0a46ac8c06700fe",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The X11.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
-              "eState": "{\"scroll\":32.79528224714608}"
-            },
-            {
-              "leaf": "a0a46ac8c06700fe",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Display Manager.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
               "eState": "{}"
             },
             {
-              "leaf": "a0a46ac8c06700fe",
+              "leaf": "59bf85b52376e4e3",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Mouse & Keyboard Settings in Linux.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Inbox/{ 2022-07-20 Spring In Action.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
               "eState": "{}"
             },
             {
-              "leaf": "a0a46ac8c06700fe",
+              "leaf": "59bf85b52376e4e3",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Journal/Daily/2022-07-17.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Inbox/{ 2022-07-21 Emacs Tutorial.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+              "eState": "{\"scroll\":9.303231612936276}"
+            },
+            {
+              "leaf": "59bf85b52376e4e3",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Inbox/{ 2022-07-21 An Introduction to Programming in Emacs Lisp.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":19},\"to\":{\"line\":20,\"ch\":19}},\"scroll\":0}"
+            },
+            {
+              "leaf": "59bf85b52376e4e3",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Inbox/{ 2022-07-20 Clean Code.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":136,\"ch\":0},\"to\":{\"line\":136,\"ch\":0}},\"scroll\":105.28558492660522}"
+            },
+            {
+              "leaf": "59bf85b52376e4e3",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Inbox/{ 2022-07-20 Spring In Action.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":60,\"ch\":107},\"to\":{\"line\":60,\"ch\":107}},\"scroll\":30.00083198547363}"
+            },
+            {
+              "leaf": "59bf85b52376e4e3",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"HiDPI.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "a0a46ac8c06700fe",
+              "leaf": "59bf85b52376e4e3",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Mouse & Keyboard Settings in Linux.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":9},\"to\":{\"line\":23,\"ch\":9}},\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"X11.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":true}}",
+              "eState": "{\"scroll\":0}"
             },
             {
-              "leaf": "a0a46ac8c06700fe",
+              "leaf": "59bf85b52376e4e3",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Journal/Daily/2022-07-17.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"What are Xorg, Gnome, KDE, and etc.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "a0a46ac8c06700fe",
+              "leaf": "59bf85b52376e4e3",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Git Config.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":47,\"ch\":3},\"to\":{\"line\":47,\"ch\":3}},\"scroll\":20.123711340206185}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The installation of the JetBrains IDE in Linux.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "a0a46ac8c06700fe",
+              "leaf": "59bf85b52376e4e3",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Use Pass to Manage Passwords.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":true}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Taking Scrrenshots in Linux.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "a0a46ac8c06700fe",
+              "leaf": "59bf85b52376e4e3",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Journal/Daily/2022-07-17.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":3},\"to\":{\"line\":25,\"ch\":3}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Mac Modify System Variables.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":10},\"to\":{\"line\":23,\"ch\":10}}}"
             },
             {
-              "leaf": "a0a46ac8c06700fe",
+              "leaf": "59bf85b52376e4e3",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Journal/Daily/2022-07-16.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":46},\"to\":{\"line\":23,\"ch\":46}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Mouse & Keyboard Settings in Linux.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "a0a46ac8c06700fe",
+              "leaf": "59bf85b52376e4e3",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Temporal/Daily.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":96},\"to\":{\"line\":7,\"ch\":96}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Mac Software Setup.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":10},\"to\":{\"line\":29,\"ch\":10}}}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fonts.md",
+            "file": "Tracked Things in My Arch.md",
             "mode": "source",
-            "backlinks": true,
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "8b91ded94f700d11",
-        "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "8b91ded94f700d11",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_INDEX.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":true}}",
-              "eState": "{}"
-            }
-          ]
-        },
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_INDEX.md",
-            "mode": "preview",
             "backlinks": true,
             "source": true
           }
@@ -227,7 +203,6 @@
       {
         "id": "02cf5d27ca4bcd66",
         "type": "tabs",
-        "dimension": 56.9204152249135,
         "children": [
           {
             "id": "204578c7513a6431",
@@ -239,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_INDEX.md",
+                "file": "Tracked Things in My Arch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_INDEX.md",
+                "file": "Tracked Things in My Arch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -291,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_INDEX.md"
+                "file": "Tracked Things in My Arch.md"
               }
             }
           },
@@ -457,7 +432,6 @@
       {
         "id": "e7a8d8df9c225398",
         "type": "tabs",
-        "dimension": 43.0795847750865,
         "children": [
           {
             "id": "1248f140dc338442",
@@ -469,7 +443,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_INDEX.md",
+                "file": "Tracked Things in My Arch.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -603,17 +577,17 @@
     "width": 282,
     "collapsed": true
   },
-  "active": "8b91ded94f700d11",
+  "active": "59bf85b52376e4e3",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Fonts.md",
-    "_INDEX.md",
-    "Journal/Daily/2022-07-18.md",
-    "Linux Display Settings.md",
-    "The installation of the JetBrains IDE in Linux.md",
+    "10-Bit Color.md",
+    "Applications in 30 bit depth.md",
     "HiDPI.md",
-    "The X11.md",
-    "Display Manager.md",
-    "Mouse & Keyboard Settings in Linux.md"
+    "Inbox/{ 2022-07-20 Spring In Action.md",
+    "Inbox/{ 2022-07-21 Emacs Tutorial.md",
+    "Inbox/{ 2022-07-21 An Introduction to Programming in Emacs Lisp.md",
+    "Inbox/{ 2022-07-20 Clean Code.md",
+    "_INDEX.md",
+    "X11.md",
+    "What are Xorg, Gnome, KDE, and etc.md"
   ]
 }

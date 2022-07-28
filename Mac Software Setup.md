@@ -3,7 +3,7 @@ tags: 📝️/🌱️
 publish: true
 aliases: 
 created: 2022-07-03 20-36
-updated: 2022-07-03 20-36
+updated: 2022-07-19 00-24
 ---
 
 # [[Mac Software Setup]]
@@ -26,8 +26,8 @@ The mind behind CFW and Proxifier is: use CFW running in the background and do n
 
 ---
 
-- Topics: [[Mac]]
-	- 
+- Topics: 
+	- [[Mac]]
 - Reference:
 	- 
 - Related:
